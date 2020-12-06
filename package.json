@@ -1,0 +1,25 @@
+{
+  "name": "foundyouabook",
+  "version": "1.0.0",
+  "description": "Found you a book!",
+  "scripts": {
+    "start:lambda": "netlify-lambda serve ./lambda",
+    "build:lambda": "netlify-lambda build ./lambda"
+  },
+  "dependencies": {
+    "axios": "^0.21.0"
+  },
+  "devDependencies": {
+    "netlify-lambda": "^1.4.5"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/umairghazi/FoundYouABook.git"
+  },
+  "author": "Umair Ghazi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/umairghazi/FoundYouABook/issues"
+  },
+  "homepage": "https://github.com/umairghazi/FoundYouABook#readme"
+}
