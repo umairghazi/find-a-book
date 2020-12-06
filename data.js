@@ -5,295 +5,265 @@
 //Final values begin
 
 var TheNotebook = {
-  goodread:
-    "https://www.goodreads.com/book/title.xml?key=6eWRcmug5SfUgHUUS27kg&title=The+Notebook",
+  goodread: "https://www.goodreads.com/book/title.xml?title=The+Notebook",
   youtube: "https://www.youtube.com/embed/4M7LIcH8C9U?",
   options: null,
 };
 
 var LeavingParadise = {
-  goodread:
-    "https://www.goodreads.com/book/title.xml?key=6eWRcmug5SfUgHUUS27kg&title=Leaving+Paradise",
+  goodread: "https://www.goodreads.com/book/title.xml?title=Leaving+Paradise",
   youtube: null,
   options: null,
 };
 
 var AWTOR = {
-  goodread:
-    "https://www.goodreads.com/book/title.xml?key=6eWRcmug5SfUgHUUS27kg&title=A+Walk+To+Remember",
+  goodread: "https://www.goodreads.com/book/title.xml?title=A+Walk+To+Remember",
   youtube: "https://www.youtube.com/embed/k3B2XBcp7vA",
   options: null,
 };
 
 var FiftySG = {
-  goodread:
-    "https://www.goodreads.com/book/title.xml?key=6eWRcmug5SfUgHUUS27kg&title=50+Shades+of+Grey",
+  goodread: "https://www.goodreads.com/book/title.xml?title=50+Shades+of+Grey",
   youtube: "https://www.youtube.com/embed/SfZWFDs0LxA",
   options: null,
 };
 
 var FiftySD = {
-  goodread:
-    "https://www.goodreads.com/book/title.xml?key=6eWRcmug5SfUgHUUS27kg&title=50+Shades+Darker",
+  goodread: "https://www.goodreads.com/book/title.xml?title=50+Shades+Darker",
   youtube: null,
   options: null,
 };
 
 var BreakingDawn = {
-  goodread:
-    "https://www.goodreads.com/book/title.xml?key=6eWRcmug5SfUgHUUS27kg&title=Breaking+Dawn",
+  goodread: "https://www.goodreads.com/book/title.xml?title=Breaking+Dawn",
   youtube: "https://www.youtube.com/embed/PQNLfo-SOR4",
   options: null,
 };
 
 var RANDJ = {
-  goodread:
-    "https://www.goodreads.com/book/title.xml?key=6eWRcmug5SfUgHUUS27kg&title=Romeo+And+Juliet",
+  goodread: "https://www.goodreads.com/book/title.xml?title=Romeo+And+Juliet",
   youtube: "https://www.youtube.com/embed/jTGWNHa1wIQ",
   options: null,
 };
 
 var THG = {
-  goodread:
-    "https://www.goodreads.com/book/title.xml?key=6eWRcmug5SfUgHUUS27kg&title=The+Hunger+Games",
+  goodread: "https://www.goodreads.com/book/title.xml?title=The+Hunger+Games",
   youtube: "https://www.youtube.com/embed/FovFG3N_RSU",
   options: null,
 };
 
 var PFTK = {
   goodread:
-    "https://www.goodreads.com/book/title.xml?key=6eWRcmug5SfUgHUUS27kg&title=Playing+For+The+Keeps",
+    "https://www.goodreads.com/book/title.xml?title=Playing+For+The+Keeps",
   youtube: "https://www.youtube.com/embed/ez9U9bw4XwM",
   options: null,
 };
 
 var BJD = {
   goodread:
-    "https://www.goodreads.com/book/title.xml?key=6eWRcmug5SfUgHUUS27kg&title=Bridget+Jones+Diary",
+    "https://www.goodreads.com/book/title.xml?title=Bridget+Jones+Diary",
   youtube: "https://www.youtube.com/embed/EH9CWWqb-6E",
   options: null,
 };
 
 var TBND = {
-  goodread:
-    "https://www.goodreads.com/book/title.xml?key=6eWRcmug5SfUgHUUS27kg&title=The+Boy+Next+Door",
+  goodread: "https://www.goodreads.com/book/title.xml?title=The+Boy+Next+Door",
   youtube: "https://www.youtube.com/embed/MgbBwovOOoc",
   options: null,
 };
 
 var TLOA = {
   goodread:
-    "https://www.goodreads.com/book/title.xml?key=6eWRcmug5SfUgHUUS27kg&title=The+Law+Of+Attraction",
+    "https://www.goodreads.com/book/title.xml?title=The+Law+Of+Attraction",
   youtube: "https://www.youtube.com/embed/ok3grGQRaSc",
   options: null,
 };
 
 var Tangled = {
-  goodread:
-    "https://www.goodreads.com/book/title.xml?key=6eWRcmug5SfUgHUUS27kg&title=Tangled",
+  goodread: "https://www.goodreads.com/book/title.xml?title=Tangled",
   youtube: "https://www.youtube.com/embed/gsYKF8ecC8g",
   options: null,
 };
 
 var PANDP = {
   goodread:
-    "https://www.goodreads.com/book/title.xml?key=6eWRcmug5SfUgHUUS27kg&title=Pride+And+Prejudice",
+    "https://www.goodreads.com/book/title.xml?title=Pride+And+Prejudice",
   youtube: "https://www.youtube.com/embed/fJA27Jujzq4",
   options: null,
 };
 
 var JE = {
-  goodread:
-    "https://www.goodreads.com/book/title.xml?key=6eWRcmug5SfUgHUUS27kg&title=Jane+Eyre",
+  goodread: "https://www.goodreads.com/book/title.xml?title=Jane+Eyre",
   youtube: "https://www.youtube.com/embed/s1vSb318d74",
   options: null,
 };
 
 var GWTW = {
-  goodread:
-    "https://www.goodreads.com/book/title.xml?key=6eWRcmug5SfUgHUUS27kg&title=Gone+With+The+Wind",
+  goodread: "https://www.goodreads.com/book/title.xml?title=Gone+With+The+Wind",
   youtube: "https://www.youtube.com/embed/0dTsfsr6-X8",
   options: null,
 };
 
 var GWTDT = {
   goodread:
-    "https://www.goodreads.com/book/title.xml?key=6eWRcmug5SfUgHUUS27kg&title=The+Girl+With+The+Dragon+Tattoo",
+    "https://www.goodreads.com/book/title.xml?title=The+Girl+With+The+Dragon+Tattoo",
   youtube: "https://www.youtube.com/embed/DqQe3OrsMKI",
   options: null,
 };
 
 var TDVC = {
-  goodread:
-    "https://www.goodreads.com/book/title.xml?key=6eWRcmug5SfUgHUUS27kg&title=The+Da+Vinci+Code",
+  goodread: "https://www.goodreads.com/book/title.xml?title=The+Da+Vinci+Code",
   youtube: "https://www.youtube.com/embed/zMba3fckhuQ",
   options: null,
 };
 
 var GoneGirl = {
-  goodread:
-    "https://www.goodreads.com/book/title.xml?key=6eWRcmug5SfUgHUUS27kg&title=Gone+Girl",
+  goodread: "https://www.goodreads.com/book/title.xml?title=Gone+Girl",
   youtube: "https://www.youtube.com/embed/Ym3LB0lOJ0o",
   options: null,
 };
 
 var HPANDDH = {
   goodread:
-    "https://www.goodreads.com/book/title.xml?key=6eWRcmug5SfUgHUUS27kg&title=Harry+Potter+And+Deathly+Hallows",
+    "https://www.goodreads.com/book/title.xml?title=Harry+Potter+And+Deathly+Hallows",
   youtube: "https://www.youtube.com/embed/9hXH0Ackz6w",
   options: null,
 };
 
 var ATTWN = {
   goodread:
-    "https://www.goodreads.com/book/title.xml?key=6eWRcmug5SfUgHUUS27kg&title=And+Then+There+Were+None",
+    "https://www.goodreads.com/book/title.xml?title=And+Then+There+Were+None",
   youtube: "https://www.youtube.com/embed/2SRYN3-Rs7A",
   options: null,
 };
 
 var FightClub = {
-  goodread:
-    "https://www.goodreads.com/book/title.xml?key=6eWRcmug5SfUgHUUS27kg&title=Fight+Club",
+  goodread: "https://www.goodreads.com/book/title.xml?title=Fight+Club",
   youtube: null,
   options: null,
 };
 
 var TheFirm = {
-  goodread:
-    "https://www.goodreads.com/book/title.xml?key=6eWRcmug5SfUgHUUS27kg&title=The+Firm",
+  goodread: "https://www.goodreads.com/book/title.xml?title=The+Firm",
   youtube: "https://www.youtube.com/embed/zMmE8RLieiA",
   options: null,
 };
 
 var TLL = {
-  goodread:
-    "https://www.goodreads.com/book/title.xml?key=6eWRcmug5SfUgHUUS27kg&title=The+Lincoln+Lawyer",
+  goodread: "https://www.goodreads.com/book/title.xml?title=The+Lincoln+Lawyer",
   youtube: "https://www.youtube.com/embed/IFwE3UgCMIk",
   options: null,
 };
 
 var ATTK = {
-  goodread:
-    "https://www.goodreads.com/book/title.xml?key=6eWRcmug5SfUgHUUS27kg&title=A+Time+To+Kill",
+  goodread: "https://www.goodreads.com/book/title.xml?title=A+Time+To+Kill",
   youtube: "https://www.youtube.com/embed/O90-DO9P6q0",
   options: null,
 };
 
 var TKAMB = {
   goodread:
-    "https://www.goodreads.com/book/title.xml?key=6eWRcmug5SfUgHUUS27kg&title=To+Kill+A+Mockingbird",
+    "https://www.goodreads.com/book/title.xml?title=To+Kill+A+Mockingbird",
   youtube: "https://www.youtube.com/embed/KR7loA_oziY",
   options: null,
 };
 
 var TRJ = {
-  goodread:
-    "https://www.goodreads.com/book/title.xml?key=6eWRcmug5SfUgHUUS27kg&title=The+Runaway+Jury",
+  goodread: "https://www.goodreads.com/book/title.xml?title=The+Runaway+Jury",
   youtube: "https://www.youtube.com/embed/c80vGyzA0LI",
   options: null,
 };
 
 var NEFOUR = {
-  goodread:
-    "https://www.goodreads.com/book/title.xml?key=6eWRcmug5SfUgHUUS27kg&title=1984",
+  goodread: "https://www.goodreads.com/book/title.xml?title=1984",
   youtube: "https://www.youtube.com/embed/52wis_sLT1I",
   options: null,
 };
 
 var Far451 = {
-  goodread:
-    "https://www.goodreads.com/book/title.xml?key=6eWRcmug5SfUgHUUS27kg&title=Farenheit+451",
+  goodread: "https://www.goodreads.com/book/title.xml?title=Farenheit+451",
   youtube: "https://www.youtube.com/embed/fMBu6RUMJg0",
   options: null,
 };
 
 var GoldenCompass = {
-  goodread:
-    "https://www.goodreads.com/book/title.xml?key=6eWRcmug5SfUgHUUS27kg&title=The+Golden+Compass",
+  goodread: "https://www.goodreads.com/book/title.xml?title=The+Golden+Compass",
   youtube: "https://www.youtube.com/embed/gNiiJ0JtBOQ",
   options: null,
 };
 
 var TLTWTW = {
   goodread:
-    "https://www.goodreads.com/book/title.xml?key=6eWRcmug5SfUgHUUS27kg&title=The+Lion+The+Witch+The+Wardrobe",
+    "https://www.goodreads.com/book/title.xml?title=The+Lion+The+Witch+The+Wardrobe",
   youtube: "https://www.youtube.com/embed/lWKj41HZBzM",
   options: null,
 };
 
 var RPO = {
-  goodread:
-    "https://www.goodreads.com/book/title.xml?key=6eWRcmug5SfUgHUUS27kg&title=Ready+Player+One",
+  goodread: "https://www.goodreads.com/book/title.xml?title=Ready+Player+One",
   youtube: null,
   options: null,
 };
 
 var TheMartian = {
-  goodread:
-    "https://www.goodreads.com/book/title.xml?key=6eWRcmug5SfUgHUUS27kg&title=The+Martian",
+  goodread: "https://www.goodreads.com/book/title.xml?title=The+Martian",
   youtube: "https://www.youtube.com/embed/ej3ioOneTy8",
   options: null,
 };
 
 var ICB = {
-  goodread:
-    "https://www.goodreads.com/book/title.xml?key=6eWRcmug5SfUgHUUS27kg&title=In+Cold+Blood",
+  goodread: "https://www.goodreads.com/book/title.xml?title=In+Cold+Blood",
   youtube: "https://www.youtube.com/embed/loRNwWFHvwY",
   options: null,
 };
 
 var TBI = {
   goodread:
-    "https://www.goodreads.com/book/title.xml?key=6eWRcmug5SfUgHUUS27kg&title=The+Bourne+Identity",
+    "https://www.goodreads.com/book/title.xml?title=The+Bourne+Identity",
   youtube: "https://www.youtube.com/embed/FpKaB5dvQ4g",
   options: null,
 };
 
 var TBS = {
   goodread:
-    "https://www.goodreads.com/book/title.xml?key=6eWRcmug5SfUgHUUS27kg&title=The+Bourne+Supremacy",
+    "https://www.goodreads.com/book/title.xml?title=The+Bourne+Supremacy",
   youtube: "https://www.youtube.com/embed/Y-HqyyfBbSo",
   options: null,
 };
 
 var NLMG = {
-  goodread:
-    "https://www.goodreads.com/book/title.xml?key=6eWRcmug5SfUgHUUS27kg&title=Never+Let+Me+Go",
+  goodread: "https://www.goodreads.com/book/title.xml?title=Never+Let+Me+Go",
   youtube: "https://www.youtube.com/embed/sXiRZhDEo8A",
   options: null,
 };
 
 var Watchmen = {
-  goodread:
-    "https://www.goodreads.com/book/title.xml?key=6eWRcmug5SfUgHUUS27kg&title=Watchmen",
+  goodread: "https://www.goodreads.com/book/title.xml?title=Watchmen",
   youtube: "https://www.youtube.com/embed/PVjA0y78_EQ",
   options: null,
 };
 
 var Fatherland = {
-  goodread:
-    "https://www.goodreads.com/book/title.xml?key=6eWRcmug5SfUgHUUS27kg&title=Fatherland",
+  goodread: "https://www.goodreads.com/book/title.xml?title=Fatherland",
   youtube: null,
   options: null,
 };
 
 var OMW = {
-  goodread:
-    "https://www.goodreads.com/book/title.xml?key=6eWRcmug5SfUgHUUS27kg&title=Old+Man's+War",
+  goodread: "https://www.goodreads.com/book/title.xml?title=Old+Man's+War",
   youtube: null,
   options: null,
 };
 
 var TTW = {
   goodread:
-    "https://www.goodreads.com/book/title.xml?key=6eWRcmug5SfUgHUUS27kg&title=Time+Traveller's+Wife",
+    "https://www.goodreads.com/book/title.xml?title=Time+Traveller's+Wife",
   youtube: "https://www.youtube.com/embed/3_8WZxHScMk",
   options: null,
 };
 
 var TimeMachine = {
-  goodread:
-    "https://www.goodreads.com/book/title.xml?key=6eWRcmug5SfUgHUUS27kg&title=Time+Machine",
+  goodread: "https://www.goodreads.com/book/title.xml?title=Time+Machine",
   youtube: "https://www.youtube.com/embed/90T7iLuzFgg",
   options: null,
 };

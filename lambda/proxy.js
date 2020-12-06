@@ -3,7 +3,9 @@ import axios from "axios";
 export async function handler(event, context) {
   try {
     const targetUrl = event["headers"]["target-url"];
-    const response = await axios.get(targetUrl);
+    const apiKey = process.env.API_KEY;
+    const url = targetUrl + "&key=" + apiKey;
+    const response = await axios.get(url);
     return {
       statusCode: 200,
       body: response.data,
