@@ -7,7 +7,7 @@
     "build:lambda": "netlify-lambda build ./lambda"
   },
   "dependencies": {
-    "axios": "^0.21.0"
+    "axios": "^0.21.1"
   },
   "devDependencies": {
     "netlify-lambda": "^1.4.5"
