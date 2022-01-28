@@ -7,10 +7,10 @@
     "build:lambda": "netlify-lambda build ./lambda"
   },
   "dependencies": {
-    "axios": "^0.21.0"
+    "axios": "^0.25.0"
   },
   "devDependencies": {
-    "netlify-lambda": "^1.4.5"
+    "netlify-lambda": "^2.0.15"
   },
   "repository": {
     "type": "git",
