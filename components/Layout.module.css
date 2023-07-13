@@ -1,0 +1,7 @@
+.select-column {
+  height: "100%";
+  min-height: 150;
+  border: "1px solid black";
+  font-size: 30;
+  text-align: "center"
+}
