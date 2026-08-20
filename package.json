@@ -1,5 +1,5 @@
 {
-  "name": "found-you-a-book",
+  "name": "find-a-book",
   "version": "2.0.0",
   "private": true,
   "type": "module",
@@ -24,7 +24,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/umairghazi/FoundYouABook.git"
+    "url": "git+https://github.com/umairghazi/find-a-book.git"
   },
   "author": "Umair Ghazi",
   "license": "ISC"

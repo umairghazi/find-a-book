@@ -1,5 +1,7 @@
 # Found You a Book
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/0af8c98c-6780-49c5-8aac-9c88df653356/deploy-status)](https://app.netlify.com/projects/upbeat-mayer-e06e8a/deploys)
+
 A guided book recommendation app built with React and Vite.
 
 The app helps readers choose stories based on genre, mood, and pacing. Each answer is encoded in the URL, so browser navigation works naturally and final recommendation shortlists are shareable.
