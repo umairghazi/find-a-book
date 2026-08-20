@@ -1,25 +1,31 @@
 {
-  "name": "foundyouabook",
-  "version": "1.0.0",
-  "description": "Found you a book!",
+  "name": "found-you-a-book",
+  "version": "2.0.0",
+  "private": true,
+  "type": "module",
+  "description": "A modern React and Vite book recommendation app.",
   "scripts": {
-    "start:lambda": "netlify-lambda serve ./lambda",
-    "build:lambda": "netlify-lambda build ./lambda"
+    "dev": "vite --host 127.0.0.1",
+    "build": "tsc --noEmit && vite build",
+    "preview": "vite preview --host 127.0.0.1",
+    "typecheck": "tsc --noEmit"
   },
   "dependencies": {
-    "axios": "^0.25.0"
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0"
   },
   "devDependencies": {
-    "netlify-lambda": "^2.0.15"
+    "@vitejs/plugin-react": "^5.0.0",
+    "@types/node": "^22.10.2",
+    "@types/react": "^19.0.1",
+    "@types/react-dom": "^19.0.2",
+    "typescript": "^5.7.2",
+    "vite": "^6.0.3"
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/umairghazi/FoundYouABook.git"
   },
   "author": "Umair Ghazi",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/umairghazi/FoundYouABook/issues"
-  },
-  "homepage": "https://github.com/umairghazi/FoundYouABook#readme"
+  "license": "ISC"
 }
